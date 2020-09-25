@@ -83,7 +83,6 @@ body {
 }
 
 .page-nav-list li {
-  padding: 33px 40px;
   transition: 0.2s;
 }
 
@@ -97,6 +96,8 @@ body {
   color: var(--secondary-color);
   text-decoration: none;
   line-height: 22px;
+  display: inline-block;
+  padding: 33px 40px;
 }
 
 .main-page {
